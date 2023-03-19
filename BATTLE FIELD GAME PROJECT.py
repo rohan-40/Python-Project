@@ -108,7 +108,7 @@ for i in range(10) :
     m-=1
 else :
     print()
-    print("😭😭😭 YOU LOST 😭😭😭")
+    print("😭😭😭 YOU are LOST 😭😭😭")
 print("You got",count1/10*100,"% 👍")
 
 
